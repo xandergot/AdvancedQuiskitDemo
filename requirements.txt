@@ -1,0 +1,19 @@
+# Quantum Teleportation with Qiskit - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Qiskit packages
+qiskit==1.0.0
+qiskit-ibm-runtime==0.20.0
+
+# Scientific computing
+numpy>=1.26.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.5.0
+pylatexenc
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipython>=7.0.0
+
